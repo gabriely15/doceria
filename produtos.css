@@ -1,0 +1,180 @@
+header {
+
+    background-color: #28b8b1;
+
+    padding: 50px 0;
+
+}
+
+h1 img {
+
+    width: 120px;
+
+}
+
+h1 a:hover img {
+
+    width: 121px;
+
+}
+
+.caixa {
+
+ 
+    position: relative;
+
+    width: 1600px;
+
+    margin-right: auto;
+
+    margin-left: auto;
+
+}
+
+nav {
+
+    position: absolute;
+
+    top: 61px;
+
+    right: 17px;
+
+}
+
+nav li {
+
+    display: inline;
+
+    margin: 0 0 0 15px;
+
+}
+
+nav a {
+
+    text-transform: uppercase;
+
+    color:#ffffff;
+
+    font-weight: bold;
+
+    font-size: 22px;
+
+    text-decoration: none;
+
+}
+
+nav a:hover {
+
+    color: aquamarine;
+
+    text-decoration: underline;
+
+}
+
+.produtos {
+
+    width: 1280px;
+
+    margin: 0 auto;
+
+    padding: 50px 0;
+
+}
+
+.produtos li {
+
+    display: inline-block;
+
+    text-align: center;
+
+    width: 30%;
+
+    vertical-align: top;
+
+    padding: 20px 35px;
+
+    box-sizing: border-box;
+
+    margin: 0 20px;
+
+    border: 2px solid #000000;
+
+    border-radius: 10px 30px 10px 100px;
+
+}
+
+.produtos li:hover {
+
+    color: aquamarine;
+
+    border-color: aquamarine;
+
+}
+
+.produtos li:active {
+
+    border-color: #4e6991;
+
+}
+
+.produtos li:hover h2 {
+
+    font-size: 42px;
+
+}
+
+.produtos h2 {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: 40px;
+
+    font-weight: bold;
+
+    margin-bottom: 10px;
+
+}
+
+.pro-descricao {
+
+    font-size: 22px;
+
+    margin-top: 7px;
+
+}
+
+.pro-preco {
+
+    font-size: 27px;
+
+    font-weight: bold;
+
+    margin-top: 15px;
+
+    padding-bottom: 5px;
+
+}
+
+.ftp1 {
+
+    width: 270px;
+
+    height: 300px;
+
+}
+
+.ftp2 {
+
+    width: 270px;
+
+    height: 300px;
+
+}
+
+.ftp3 {
+
+    width: 270px;
+
+    height: 300px;
+
+}
